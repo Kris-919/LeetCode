@@ -1,3 +1,4 @@
+//bfs
 class Solution {
     public String[]word={"abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
     public List<String> letterCombinations(String digits) {
